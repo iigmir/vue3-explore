@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import RSSAPP from "../components/RSSAPP.vue";
+import RSSAPP from "../components/RSSAPP/index.vue";
 
 export default {
     name: "Home",
